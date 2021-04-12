@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="ProjectCalc" title="ProjectCalc" src="https://i.imgur.com/Veqm7Gh.png" width="220px" />
+  <img alt="ProjectCalc" title="ProjectCalc" src="https://i.imgur.com/logo2.png" width="220px" />
 </h1>
 
 <p align="center">
