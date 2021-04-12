@@ -47,6 +47,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Feito com ♥ by Rocketsaet e ajustado por Jess!
+Feito com ♥ by Rocketseat e boosted por Jess!
 # ProjectCalculator
-# ProjectCalculator
+
