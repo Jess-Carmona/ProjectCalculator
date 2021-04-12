@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="ProjectCalc" title="ProjectCalc" src=".github/logo2.png" width="220px" />
+ Project Calculator
 </h1>
 
 <p align="center">
